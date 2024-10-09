@@ -1,0 +1,33 @@
+{
+  "update_enforcement": "not_mandatory",
+  "message": "\nFixed AdultZone, improved Debrid and more... You can also install manually from https://linktr.ee/flixvision\n",
+  "version_code": "54",
+  "version_name": "v2.9.3r",
+  "apk_url": "https://github.com/fvision8/fvreleases/releases/download/v2.9.3r/FlixVision_v2.9.3r.apk",
+  "iptv_url":"https://www.dropbox.com/scl/fi/ltw12vxdkkaoacqzswx1o/playlist-fvision.m3u?rlkey=jusc3gpfi2oudrdsfgl482zch&st=469t6mds&dl=1",
+  "domain":"http://185.112.144.240",
+  "anime_domain":"www5.gogoanimes.fi",
+  "live_tv_main_active":false,
+  "ml_host":"https://antol307vvk.com",
+  "autoembed":"https://autoembed.co",
+  "ads":true,
+  "MovieRulzHindi":"https://ww9.watchmovierulz.ws/",
+  "anime_ajax_host":"https://ajax.gogocdn.net",
+  "drama_host":"https://kissasiantv.to",
+  "unity_ads":true,
+  "janint":true,
+  "load_logos":true,
+  "futumov_pattern":true,
+  "secure_gomov":false,
+  "ads_delay":30,
+  "playlists": [
+      {
+        "url":"https://www.dropbox.com/scl/fi/ltw12vxdkkaoacqzswx1o/playlist-fvision.m3u?rlkey=jusc3gpfi2oudrdsfgl482zch&st=469t6mds&dl=1",
+        "name":"#IPTV-ORG by Country"
+      },
+      {
+        "url":"https://www.dropbox.com/scl/fi/ltw12vxdkkaoacqzswx1o/playlist-fvision.m3u?rlkey=jusc3gpfi2oudrdsfgl482zch&st=469t6mds&dl=1",
+        "name":"#IPTV-ORG by Category"
+      }
+    ]
+}
